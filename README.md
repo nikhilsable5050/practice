@@ -1,1 +1,1 @@
-# github-badge-practice
+# github-practice
